@@ -1,0 +1,14 @@
+Package: shinysuspend
+Title: Suspend Shiny Inputs
+Version: 0.1.0
+Authors@R: 
+    person("Mikko", "Marttila", , "mikkmart@pm.me", role = c("aut", "cre"))
+Description: Suspend (and resume) Shiny inputs so that changes to their values
+    are not propagated to the Shiny session.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    htmltools,
+    shiny
