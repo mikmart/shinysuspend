@@ -12,3 +12,5 @@ RoxygenNote: 7.1.2
 Imports: 
     htmltools,
     shiny
+URL: https://github.com/mikmart/shinysuspend
+BugReports: https://github.com/mikmart/shinysuspend/issues
