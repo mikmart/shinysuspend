@@ -7,7 +7,7 @@
 useShinysuspend <- function() {
   htmltools::htmlDependency(
     name = "shinysuspend",
-    version = packageVersion("shinysuspend"),
+    version = utils::packageVersion("shinysuspend"),
     package = "shinysuspend",
     src = "js",
     script = "shinysuspend.js"

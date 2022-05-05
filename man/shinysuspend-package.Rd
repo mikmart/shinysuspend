@@ -4,9 +4,17 @@
 \name{shinysuspend-package}
 \alias{shinysuspend}
 \alias{shinysuspend-package}
-\title{shinysuspend: What the Package Does (One Line, Title Case)}
+\title{shinysuspend: Suspend Shiny Inputs}
 \description{
-What the package does (one paragraph).
+Suspend (and resume) Shiny inputs so that changes to their values are not propagated to the Shiny session.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/mikmart/shinysuspend}
+  \item Report bugs at \url{https://github.com/mikmart/shinysuspend/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Mikko Marttila \email{mikkmart@pm.me}
